@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+SFC_Qlearning.ipynb
 
 # C extensions
 *.so
